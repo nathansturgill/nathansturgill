@@ -8,5 +8,4 @@ Nathan Sturgill is a gradute student at the University of Tennessee. He graduate
 
 
 ## Resume/CV
-[[text](<../../Nathan Sturgill_ Resume (4).docx>)] 
-
+[Nathan Sturgill_ Resume (4).docx](https://github.com/nathansturgill/nathansturgill/files/14211260/Nathan.Sturgill_.Resume.4.docx)
