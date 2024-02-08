@@ -1,24 +1,12 @@
 ### Hi there 👋
 
-## introduction
+## Introduction
+Nathan Sturgill is a gradute student at the University of Tennessee. He graduated from Ohio Wesleyan University with a Bachelors Degree in Geography and Environmental Science. He mainly has focused his studies on various GIS projects and Remote Sensing with a focus on Urban Heat Islands in the past. His recent work includes examining how the opioid epidemic has effected different rural areas in Appalachia using GIS analysis and statistical modeling. He is proficient in various GIS softwares including ArcGIS Pro and QGIS. He is also proficient in various programming languages such as Python. 
 
 ## Project
 [- geemap:](wwww.geemap.org)
 
-**nathansturgill/nathansturgill** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-## Demos
-[](<iframe src="https://gifer.com/embed/Af6V" width=480 height=433.116 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">via GIFER</a></p>)
+## Resume/CV
+[[text](<../../Nathan Sturgill_ Resume (4).docx>)] 
 
